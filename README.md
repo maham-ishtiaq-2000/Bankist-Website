@@ -5,7 +5,7 @@ This application boasts a smooth scrolling effect that enhances navigation throu
 ## Project GIF
 
 <div class="gif-container" style="display: flex; justify-content: center; margin-left: auto; margin-right: auto;">
-    <img src="./BankistAppGIF.gif" alt="Alt Text">
+    <img src="./BankistWebsiteGIF.gif" alt="Alt Text">
 </div>
 
 ## 🚀 Demo
@@ -14,14 +14,7 @@ This application boasts a smooth scrolling effect that enhances navigation throu
 <img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
 </a>
 
-Try the application: https://maham-ishtiaq-2000.github.io/Bankist-app/
-
-You can try it using the following credentials:
-| UserName | Password | 
-| --------------- | --------------- | 
-| js   | 1111    | 
-| jd    | 2222    | 
-| stw    | 3333    | 
+Try the application: https://maham-ishtiaq-2000.github.io/Bankist-Website/
 
 
 ## 🛠️ Installation Steps
@@ -35,7 +28,7 @@ git clone https://github.com/maham-ishtiaq-2000/Bankist-app.git
 2. Change the working directory
 
 ```bash
-cd Bankist-app.git
+cd Bankist-Website.git
 ```
 
 3. Install dependencies
